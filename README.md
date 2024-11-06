@@ -5,10 +5,9 @@ Feel free to use this lifehacks and share your improvements & suggestions with m
 See [ajOffset.FCStd](https://github.com/gitAjjk/pubFabLab/blob/main/ajOffset.FCStd) for examples of dovetail-sliced polar patterns with pockets.
 
 # [Freecad](https://www.freecad.org/)
-Opensource replace for Fusion. Fullt parametric, python scripting, construction history. I don't miss any features upto now, and it is still improving 😃!  
+Opensource replacer for Fusion. Fully parametric, powerfull python scripting and macrorecording, construction history. I don't miss any features upto now, and it is still improving 😃!  
 ## Best practises:
   - For each piece: nest a 'body'(+sketch) in a 'part' and 'Transform' part for posioning.
-  - Try macrorecording for making your own extra nifty workflows.
 ## **Kerf-offset** with macro '[ajOffset.FCMacro.py](https://github.com/gitAjjk/pubFabLab/blob/main/ajOffset.FCMacro.py)'
 Creates user-set offset contour lines for all selected objects (including pockets!) to a TechDraw page.  
 Usage:  
