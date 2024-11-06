@@ -4,7 +4,15 @@ Feel free to use this lifehacks and share your improvements & suggestions with m
 
 See [ajOffset.FCStd](https://github.com/gitAjjk/pubFabLab/blob/main/ajOffset.FCStd) for examples of dovetail-sliced polar patterns with pockets.
 
-## ToDo with ajOffset.FCMacro.py :
+# FreeCad
+## macro ajOffset.FCMacro.py usage
+- Put ajOffset.FCMacro.py in you MACRO direcrory (menu > Edit > Preferences > Python > Macro > Macro path) 
+- Select one ore more bodies/solids (try what works).
+- Macro-buttonbar > Macros ... > User Macros; Select this .py; Execute.
+- Enter an offset. This is half the lasercutter kerf.
+- In Model-tree, check generated TechdrawOffsetPage* and tmpOffset3D_*.
+- Export to TechdrawOffsetPage*.dxf doesn't work well. Perform export manually. 
+### ToDo with ajOffset.FCMacro.py :
   - Improve this manual ;-)
   - Export views in techdrawpage to .dxf doesn't work for all views.
   - Making offset with arc-corners with 2D approach (see macro code) doesn't work.
