@@ -8,7 +8,8 @@ See [ajOffset.FCStd](https://github.com/gitAjjk/pubFabLab/blob/main/ajOffset.FCS
 ## Best practises:
   - For each piece: nest a 'body'(+sketch) in a 'part' and 'Transform' part for posioning.  
 ## **Kerf-offset** with macro '[ajOffset.FCMacro.py](https://github.com/gitAjjk/pubFabLab/blob/main/ajOffset.FCMacro.py)'
-Usage:
+Creates user-set offset contour lines for all selected objects (including pockets!) to a TechDraw page.  
+Usage:  
 - Put ajOffset.FCMacro.py in you MACRO direcrory (menu > Edit > Preferences > Python > Macro > Macro path) 
 - Select one ore more bodies/solids (try what works well).
 - Macro-buttonbar > Macros ... > User Macros; Select this .py; Execute.
@@ -23,7 +24,7 @@ Usage:
   - Test/debug other shapes.
 
 # [InkScape](https://inkscape.org/)
-Use or check & Post processing.  
+Use for check & Post processing.  
 - [ctrl][l] shows object-tree  
 - Put text (CamBam_Stick) with a production-timestamp on every part (use duplicate [ctrl][d])
   - Adapt text-fonts to lines:
