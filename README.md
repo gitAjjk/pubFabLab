@@ -7,7 +7,7 @@ See [ajOffset.FCStd](https://github.com/gitAjjk/pubFabLab/blob/main/ajOffset.FCS
 # [Freecad](https://www.freecad.org/)
 ## Best practises:
   - For each piece: nest a 'body'(+sketch) in a 'part' and 'Transform' part for posioning.
-  - Try macrorecording for extra nifty workflows.
+  - Try macrorecording for making your own extra nifty workflows.
 ## **Kerf-offset** with macro '[ajOffset.FCMacro.py](https://github.com/gitAjjk/pubFabLab/blob/main/ajOffset.FCMacro.py)'
 Creates user-set offset contour lines for all selected objects (including pockets!) to a TechDraw page.  
 Usage:  
