@@ -36,7 +36,10 @@ Use for check & Post processing.
   - Adapt text-fonts to lines:
     - Select all, Menu > Extensions > Text > Hershey text
       - All fontst are single lined
-- Beware of Double lines (also in hairline-fonts).
+- ! Beware of Double lines (also in hairline-fonts). Only face is sufficient.
+- File > Document properties
+  - Resize to content
+  - Checkboard
 - Select all, Fill and Stroke [shift][ctrl][f] > Stroke Style > Width: 1 pixel
   - Don't use Hairline. Svg won't render fonts well. A hairline can be a completely overlapping inner an outer strokes and will be cut twice.
 
