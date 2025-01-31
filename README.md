@@ -46,7 +46,7 @@ Use for check & Post processing.
 ## **Kerf-offset**  
 Can also be done with IS (See [InkScape Kerf offset EN.pdf](https://github.com/gitAjjk/pubFabLab/blob/main/InkScape%20Kerf%20offset%20EN%200.2.pdf))  
 
-# Lasercutter  
+# Lasercutter
 - Put stickerfilm at least on bottom. On top affects engraving  
 - Remove stickerfilm and Leave cut pieces for one day degassing  
 - 'Engrave' mode makes face be filled with lines  
