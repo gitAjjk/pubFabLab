@@ -37,7 +37,7 @@ Use for check & Post processing.
   - Adapt text-fonts to lines:
     - Select all, Menu > Extensions > Text > Hershey text
       - All fontst are single lined
-- ! Beware of Double lines (also in hairline-fonts). Only face is sufficient.
+- ! Beware of Double lines (also in hairline-fonts). For cutting face only is sufficient.
 - File > Document properties
   - Resize to content
   - Checkboard
