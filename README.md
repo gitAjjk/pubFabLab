@@ -30,6 +30,7 @@ Usage:
 
 # [InkScape](https://inkscape.org/)
 Use for check & Post processing.  
+- Select all, Fill and Stroke [shift][ctrl][f] > Stroke Style > Width: hairline
 - Take picture of material and use it as scaled background to arrange pieces to fit best  
 - [ctrl][l] shows object-tree  
 - Put text (CamBam_Stick) with a production-timestamp on every part (use duplicate [ctrl][d])
