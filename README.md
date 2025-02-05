@@ -61,7 +61,8 @@ Use for check & Post processing.
 		30/25 ±1 mm met smeltrand  
 		30/10   
 		40/10  
-		50/10 ±.2? mm, geen smeltrand  
+		50/10 ±.2? mm, geen smeltrand
+  - Using protectionfilm, little cracks and a brim occur. Leave it for a while in a 70° C environment? 
 - Birch Plywood 6mm
   - 14 / 70	OK
   - See fablab table  
