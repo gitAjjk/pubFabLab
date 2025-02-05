@@ -55,7 +55,7 @@ Use for check & Post processing.
 	- 100 / 9  ±.1 mm deep: 'touched' OK  
 	- 30 / 15   > 1mm  
 	- 15 / 38  cut OK  
-  - 15 / 35	OK	speed 15 is wel traag bij cutten  
+  - 15 / 35	OK	(quit slow cutting)
 	- 350 / 10 brand 0,5 mm in (De speed is much lower in realtime; truncated?)  
 	- 350 / 08 nothing  
 		30/25 ±1 mm met smeltrand  
