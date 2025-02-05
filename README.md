@@ -20,7 +20,7 @@ Usage:
   - 0,17 for plywood
   - 0,2 for 2mm plexi
 - In Model-tree, check generated TechdrawOffsetPage* and tmpOffset3D_*.
-- Export to TechdrawOffsetPage*.dxf doesn't work well. Perform export manually. 
+- Export to TechdrawOffsetPage*.dxf has somitimes lines removed. Use .svg or export manually. 
 ### ToDo with ajOffset.FCMacro.py :
   - Improve this manual ;-)
   - Export views in techdrawpage to .dxf doesn't work for all views.
@@ -53,13 +53,13 @@ Can also be done with IS (See [InkScape Kerf offset EN.pdf](https://github.com/g
 - 'Engrave' mode makes face be filled with lines  
 
 ## Speed / Power  
-- carglass plexi 2mm. met papier erop:  
-	- 350 / 9 ±.1 mm diep (zonder folie) touch OK  
+- carglass plexi 2mm. (protection film removed, 'Laser Cutting Masking Tape' on bottom & top):  
+	- 100 / 9  ±.1 mm deep: 'touched' OK  
 	- 30 / 15   > 1mm  
-	- 15 / 45  cut OK  
+	- 15 / 38  cut OK  
   - 15 / 35	OK	speed 15 is wel traag bij cutten  
-	- 350 / 10 brand 0,5 mm in (De speed lijkt lang niet zo hoog; waarsch truncate de machine het)  
-	- 350 / 08 niks  
+	- 350 / 10 brand 0,5 mm in (De speed is much lower in realtime; truncated?)  
+	- 350 / 08 nothing  
 		30/25 ±1 mm met smeltrand  
 		30/10   
 		40/10  
