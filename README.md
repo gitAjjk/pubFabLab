@@ -62,5 +62,6 @@ Use for check & Post processing.
 		30/10   
 		40/10  
 		50/10 ±.2? mm, geen smeltrand  
-- Birch Plywood
+- Birch Plywood 6mm
+  - 14 / 70	OK
   - See fablab table  
