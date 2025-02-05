@@ -42,18 +42,16 @@ Use for check & Post processing.
   - Resize to content
   - Checkboard
 - Select all, Fill and Stroke [shift][ctrl][f] > Stroke Style > Width: 1 pixel
-  - Don't use Hairline. Svg won't render fonts well. A hairline can be a completely overlapping inner an outer strokes and will be cut twice.
-
-## **Kerf-offset**  
-Can also be done with IS (See [InkScape Kerf offset EN.pdf](https://github.com/gitAjjk/pubFabLab/blob/main/InkScape%20Kerf%20offset%20EN%200.2.pdf))  
+  - Don't use Hairline. Svg won't render fonts well. (A hairline can be a completely overlapping inner an outer strokes and will be cut twice.)
+- **Kerf-offset** Can also be done with IS (See [InkScape Kerf offset EN.pdf](https://github.com/gitAjjk/pubFabLab/blob/main/InkScape%20Kerf%20offset%20EN%200.2.pdf))   
 
 # Lasercutter
-- Put stickerfilm at least on bottom. On top affects engraving  
+- Put 'Laser Cutting Masking Tape' at least on bottom. On top affects engraving  
 - Remove stickerfilm and Leave cut pieces for one day degassing  
-- 'Engrave' mode makes face be filled with lines  
+- Dont use 'Engrave' mode; it makes a face filled with lines and takes too much time  
 
 ## Speed / Power  
-- carglass plexi 2mm. (protection film removed, 'Laser Cutting Masking Tape' on bottom & top):  
+- carglass plexi 2mm. (protection film removed, LCM tape on bottom & top):  
 	- 100 / 9  ±.1 mm deep: 'touched' OK  
 	- 30 / 15   > 1mm  
 	- 15 / 38  cut OK  
@@ -64,4 +62,5 @@ Can also be done with IS (See [InkScape Kerf offset EN.pdf](https://github.com/g
 		30/10   
 		40/10  
 		50/10 ±.2? mm, geen smeltrand  
-Birch Plywood
+- Birch Plywood
+  - See fablab table  
