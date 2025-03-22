@@ -46,7 +46,11 @@ Be aware that lines are double. There is a set of complex paths and a set of a l
 - Select all, Fill and Stroke [shift][ctrl][f] > Stroke Style > Width: 1 pixel / hairline
   - Mind fonts & hairline. (A hairline can be a completely overlapping inner an outer strokes and will be cut twice.)
 - Add texts and colors 
-- **Kerf-offset** Can also be done with IS (See [InkScape Kerf offset EN.pdf](https://github.com/gitAjjk/pubFabLab/blob/main/InkScape%20Kerf%20offset%20EN%200.2.pdf))   
+- **Kerf-offset** Can also be done with IS (See [InkScape Kerf offset EN.pdf](https://github.com/gitAjjk/pubFabLab/blob/main/InkScape%20Kerf%20offset%20EN%200.2.pdf))
+- Save as .dxf, Options: only 'Use document unit as base unit', otherwise text-characters are messedup
+- Check online:
+  - [Coraldraw render](https://fixthephoto.com/nl/corel-draw-online-editor.html)
+  - [.svg, .dxf, .stl](https://sharecad.org/)  
 
 # Lasercutter
 - Put 'Laser Cutting Masking Tape' at least on bottom. On top affects engraving  
