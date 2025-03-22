@@ -33,7 +33,6 @@ Be aware that lines are double. There is a set of complex paths and a set of a l
 - Select all
   - Ungroup, select parts & group
   - Select a small path, rclick > Select Same : ObjectType?   Delete, so only 'complex paths' remain  
-  - Fill and Stroke [shift][ctrl][f] > Stroke Style > Width: hairline
 - Take picture of material and use it as scaled background to arrange pieces to fit best  
 - [ctrl][l] shows object-tree  
 - Put text (CamBam_Stick) with a production-timestamp on every part (use duplicate [ctrl][d])
@@ -44,8 +43,9 @@ Be aware that lines are double. There is a set of complex paths and a set of a l
 - File > Document properties
   - Resize to content
   - Checkboard
-- Select all, Fill and Stroke [shift][ctrl][f] > Stroke Style > Width: 1 pixel
-  - Don't use Hairline. Svg won't render fonts well. (A hairline can be a completely overlapping inner an outer strokes and will be cut twice.)
+- Select all, Fill and Stroke [shift][ctrl][f] > Stroke Style > Width: 1 pixel / hairline
+  - Mind fonts & hairline. (A hairline can be a completely overlapping inner an outer strokes and will be cut twice.)
+- Add texts and colors 
 - **Kerf-offset** Can also be done with IS (See [InkScape Kerf offset EN.pdf](https://github.com/gitAjjk/pubFabLab/blob/main/InkScape%20Kerf%20offset%20EN%200.2.pdf))   
 
 # Lasercutter
