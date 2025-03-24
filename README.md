@@ -19,7 +19,7 @@ Usage:
   - 0,17 for plywood
   - 0,2 for 2mm plexi
 - In Model-tree, check generated TechdrawOffsetPage* and tmpOffset3D_*.
-- Export to TechdrawOffsetPage*.dxf has somitimes lines removed. Use .svg or export manually. 
+- Export to TechdrawOffsetPage*.dxf has sometimes lines removed. Use .svg or export manually. 
 ### ToDo with ajOffset.FCMacro.py :
   - Improve this manual ;-)
   - Export views in techdrawpage to .dxf doesn't work for all views.
@@ -83,3 +83,18 @@ Be aware that lines are double. There is a set of complex paths and a set of a l
   - Buttonbar left > move. Lift and release -> object is now auto oplaced on build plate.
   - Look from under to see deviant colors than cyan.
   - [ctrl][C], [ctrl][V] to multiply
+- Plate 0 - 55:
+  - maak circle diam 300 mm.
+  - Zet die in nieuwe group 'Plate'
+  - maak strings van elk te gebruiken character. Nu '0' tm '5'.
+  - Maak van elk char een clone, zodat later de vorm nog veranderd kan.
+  - Duplicate de clone van '5' en '0'
+  - move ze een beetje op hun plek bovenin de circle
+  - select '5', positie Y=0. Ook bij '0' doen
+  - select '5' resp '0' (met [ctrl])
+  - 'Align and Distribute' > Relative to: First selected + "Align left edges to right edge"
+  - Group '0' en '5' in nieuwe group '50'
+  - Zet '50' in 'Plate'
+  - Select 'Plate', Transform: Angle -30, Apply
+  - Doe dit voor 55 t/m 45, zodat 0 t/m 55 op juiste plaats staan
+
