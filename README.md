@@ -77,5 +77,9 @@ Be aware that lines are double. There is a set of complex paths and a set of a l
   - See fablab table  
 
 # 3D print
-- Be sure all objects are on floor. Look from under to see deviant colors than cyan
-- 
+- Ultimaker Cura
+- Be sure all objects are on floor:
+  - Buttonbar left > rotate > Select face to align to build plate.
+  - Buttonbar left > move. Lift and release -> object is now auto oplaced on build plate.
+  - Look from under to see deviant colors than cyan.
+  - [ctrl][C], [ctrl][V] to multiply
