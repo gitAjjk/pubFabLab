@@ -36,15 +36,16 @@ Be aware that lines are double. There is a set of complex paths and a set of a l
 - Take picture of material and use it as scaled background to arrange pieces to fit best  
 - [ctrl][l] shows object-tree  
 - Put text (CamBam_Stick) with a production-timestamp on every part (use duplicate [ctrl][d])
+  - Also all other fonts must become paths  
   - Adapt text-fonts to lines:
     - Select all, Menu > Extensions > Text > Hershey text
       - All fontst are single lined
-- ! Beware of Double lines (also in hairline-fonts). For cutting face only is sufficient.
 - File > Document properties
   - Resize to content
   - Checkboard
 - Select all, Fill and Stroke [shift][ctrl][f] > Stroke Style > Width: 1 pixel / hairline
   - Mind fonts & hairline. (A hairline can be a completely overlapping inner an outer strokes and will be cut twice.)
+  - ! Beware of Double lines (also in hairline-fonts). For cutting face only is sufficient.
 - Add texts and colors 
 - **Kerf-offset** Can also be done with IS (See [InkScape Kerf offset EN.pdf](https://github.com/gitAjjk/pubFabLab/blob/main/InkScape%20Kerf%20offset%20EN%200.2.pdf))
 - Save as .dxf, Options: only 'Use document unit as base unit', otherwise text-characters are messedup
@@ -74,3 +75,7 @@ Be aware that lines are double. There is a set of complex paths and a set of a l
 - Birch Plywood 6mm
   - 14 / 70	OK
   - See fablab table  
+
+# 3D print
+- Be sure all objects are on floor. Look from under to see deviant colors than cyan
+- 
