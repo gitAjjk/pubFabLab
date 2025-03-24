@@ -94,6 +94,7 @@ Be aware that lines are double. There is a set of complex paths and a set of a l
   - select '5' resp '0' (met [ctrl])
   - 'Align and Distribute' > Relative to: First selected + "Align left edges to right edge"
   - Group '0' en '5' in nieuwe group '50'
+  - Select '50', 'Align and Distribute' > Relative to: Page + "Centre on vertical axis"
   - Zet '50' in 'Plate'
   - Select 'Plate', Transform: Angle -30, Apply
   - Doe dit voor 55 t/m 45, zodat 0 t/m 55 op juiste plaats staan
