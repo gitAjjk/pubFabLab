@@ -89,7 +89,7 @@ Be aware that lines are double. There is a set of complex paths and a set of a l
   - maak strings van elk te gebruiken character. Nu '0' tm '5'.
   - Maak van elk char een clone, zodat later de vorm nog veranderd kan.
   - Duplicate de clone van '5' en '0'
-  - move ze een beetje op hun plek bovenin de circle
+  - move ze een ver naast hun plek bovenin de circle (zodat de volgende positioneringen duidelijk plaatsvinden)
   - select '5', positie Y=0. Ook bij '0' doen
   - select '5' resp '0' (met [ctrl])
   - 'Align and Distribute' > Relative to: First selected + "Align left edges to right edge"
