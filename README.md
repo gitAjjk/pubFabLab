@@ -98,7 +98,7 @@ Be aware that lines are double. There is a set of complex paths and a set of a l
 
 # Macro script
 ## Freecad
-Mijn **Kerf-offset** python script metparameter UI.  
+Mijn [**Kerf-offset**](https://github.com/gitAjjk/pubFabLab/blob/main/Kerf-offset%20FC/ajOffset.FCMacro.py) python script metparameter UI.  
 ## Inkscape
 **Kerf-offset** Can also be done with IS (See [InkScape Kerf offset EN.pdf](https://github.com/gitAjjk/pubFabLab/blob/main/InkScape%20Kerf%20offset%20EN%200.2.pdf))
 ### Wijzerplaat
