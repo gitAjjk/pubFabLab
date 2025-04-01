@@ -1,5 +1,5 @@
 Create dybamic techdraw with all lines moved 1/2 kerf. outerlines placed to outside, inner lines smaller    
-Put **ajOffset.FCMacro.py** in C:/Users/AjArn24/Dropbox/Freecad/MACROS/  
+Put **ajOffset.FCMacro.py** in e.g. C:/Users/<username>/Dropbox/Freecad/MACROS/  
 Usage:  
 - select objects  
 - menu > macro > Macros... > ajOffset.FCMacro.py
