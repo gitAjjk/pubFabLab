@@ -102,6 +102,5 @@ Be aware that lines are double. There is a set of complex paths and a set of a l
 **Kerf-offset** Can also be done with IS (See [InkScape Kerf offset EN.pdf](https://github.com/gitAjjk/pubFabLab/blob/main/InkScape%20Kerf%20offset%20EN%200.2.pdf))
 ### Wijzerplaat
 Plaatst woorden uit string regelmatig langs cirkel, met parameter UI.  
-  - Select 'Plate', Transform: Angle -30, Apply
-  - Doe dit voor 55 t/m 45, zodat 0 t/m 55 op juiste plaats staan
+[Zie circular_words](https://github.com/gitAjjk/pubFabLab/blob/main/CircularWords/readme.rd)
 
