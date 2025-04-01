@@ -47,7 +47,6 @@ Be aware that lines are double. There is a set of complex paths and a set of a l
   - Mind fonts & hairline. (A hairline can be a completely overlapping inner an outer strokes and will be cut twice.)
   - ! Beware of Double lines (also in hairline-fonts). For cutting face only is sufficient.
 - Add texts and colors 
-- **Kerf-offset** Can also be done with IS (See [InkScape Kerf offset EN.pdf](https://github.com/gitAjjk/pubFabLab/blob/main/InkScape%20Kerf%20offset%20EN%200.2.pdf))
 - Save as .dxf, Options: only 'Use document unit as base unit', otherwise text-characters are messedup
 
 # Check online:
@@ -96,6 +95,13 @@ Be aware that lines are double. There is a set of complex paths and a set of a l
   - Group '0' en '5' in nieuwe group '50'
   - Select '50', 'Align and Distribute' > Relative to: Page + "Centre on vertical axis"
   - Zet '50' in 'Plate'
+
+# Macro script
+## Freecad
+## Inkscape
+**Kerf-offset** Can also be done with IS (See [InkScape Kerf offset EN.pdf](https://github.com/gitAjjk/pubFabLab/blob/main/InkScape%20Kerf%20offset%20EN%200.2.pdf))
+### Wijzerplaat
+Plaatst woorden uit string regelmatig langs cirkel, met parameter UI.  
   - Select 'Plate', Transform: Angle -30, Apply
   - Doe dit voor 55 t/m 45, zodat 0 t/m 55 op juiste plaats staan
 
