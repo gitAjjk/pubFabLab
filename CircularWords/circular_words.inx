@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+    <name>Cirkel Woorden</name>
+    <id>circular_words</id>
+    
+	<effect>
+        <object-type>all</object-type>
+        <effects-menu>
+            <submenu _name="ajmenu"/>
+        </effects-menu>
+    </effect>
+
+    <param name="text" type="string" default="Hallo Wereld" gui-text="Tekst">Woorden die rond de cirkel komen</param>
+    <param name="radius" type="float" min="10.0" max="500.0" default="100.0" gui-text="Straal (px)">Straal van de cirkel</param>
+    <param name="font_size" type="float" min="5.0" max="100.0" default="20.0" gui-text="Lettergrootte">Lettergrootte van de tekst</param>
+    <param name="direction" type="enum" gui-text="Plaatsing" default="out">
+        <option value="out">Buiten de cirkel</option>
+        <option value="in">Binnen de cirkel</option>
+    </param>
+    <param name="angle_offset" type="float" default="0.0" gui-text="Beginhoek">Hoek waar de tekst begint</param>
+    <param name="flip" type="bool" gui-text="Spiegel de tekst">false</param>
+    
+    <script>
+        <command reldir="extensions" interpreter="python">circular_words.py</command>
+    </script>
+</inkscape-extension>
