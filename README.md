@@ -46,8 +46,8 @@ Use for check & Post processing.
 - File > Document properties
   - Resize to content
   - Checkboard
-- Select all, Fill and Stroke [shift][ctrl][f] > Stroke Style > Width: 1 pixel / hairline
-  - Mind fonts & hairline. (A hairline can be a completely overlapping inner an outer strokes and will be cut twice.)
+- Select all, Fill and Stroke [shift][ctrl][f] > Stroke Style > Width: 1 pixel / kerf (0,2)  
+  - Mind fonts & hairline. (A hairline can be a completely overlapping inner an outer strokes and will be cut twice. Hairline is wrong rendered in some other programms))
 - Add texts and colors 
 - Save as .dxf, Options: only 'Use document unit as base unit', otherwise text-characters are messedup
 
