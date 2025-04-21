@@ -29,9 +29,9 @@ Usage:
 
 # [InkScape](https://inkscape.org/)
 Use for check & Post processing.  
-Be aware that lines are double. There is a set of complex paths and a set of a lot of small paths.
-- Group each object  
-- Remove slack lines:
+! Be aware that lines can be double. There is a set of complex paths and a set of a lot of small paths. For cutting face only is sufficient.  
+- Ungroup all; Re-group each object  
+- Remove slack lines (only faces remain):
   - Set Text color to someting different      
   - Select all, ungroup 
   - Select a small path/linepiece, rclick > Select Same : 'Fill and Stroke'.
@@ -48,7 +48,6 @@ Be aware that lines are double. There is a set of complex paths and a set of a l
   - Checkboard
 - Select all, Fill and Stroke [shift][ctrl][f] > Stroke Style > Width: 1 pixel / hairline
   - Mind fonts & hairline. (A hairline can be a completely overlapping inner an outer strokes and will be cut twice.)
-  - ! Beware of Double lines (also in hairline-fonts). For cutting face only is sufficient.
 - Add texts and colors 
 - Save as .dxf, Options: only 'Use document unit as base unit', otherwise text-characters are messedup
 
