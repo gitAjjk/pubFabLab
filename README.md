@@ -30,9 +30,12 @@ Usage:
 # [InkScape](https://inkscape.org/)
 Use for check & Post processing.  
 Be aware that lines are double. There is a set of complex paths and a set of a lot of small paths.
-- Select all
-  - Ungroup, select parts & group
-  - Select a small path, rclick > Select Same : 'Fill and Stroke'. Delete, so only 'complex paths' remain  
+- Group each object  
+- Remove slack lines:
+  - Set Text color to someting different      
+  - Select all, ungroup 
+  - Select a small path/linepiece, rclick > Select Same : 'Fill and Stroke'.
+  - Delete, so only 'complex paths' remain.  
 - Take picture of material and use it as scaled background to arrange pieces to fit best  
 - [ctrl][l] shows object-tree  
 - Put text (CamBam_Stick) with a production-timestamp on every part (use duplicate [ctrl][d])
