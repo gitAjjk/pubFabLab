@@ -55,7 +55,19 @@ Use for check & Post processing.
   - [Coraldraw render](https://fixthephoto.com/nl/corel-draw-online-editor.html)
   - [.svg, .dxf, .stl](https://sharecad.org/)  
 
-# Lasercutter
+# Lasercutter NIEUW BRM....
+- .SVG uit Inkscape wordt meteen goed ingelezen
+  - Wat gebeurt er met macro's/clones? Gebruik die voor datum-id
+-Om te editten / repositioneren / groupselect : Select all, Ungroup tot sat niet meer kan.
+- plaat acryl 3mm : 90x60 maar er zijn ook grotere 59x119?
+- Tijd: Voor klok in-out: comment 10 minuut. cut plm 30 miuten
+- teeth zijn grillig, maar werken wel
+
+TODO
+- Inkscapemacro om alleen juiste pathes over te houden.
+
+
+# Lasercutter OUD BRM....
 - Put 'Laser Cutting Masking Tape' at least on bottom. On top affects engraving  
 - Remove stickerfilm and Leave cut pieces for one day degassing  
 - Dont use 'Engrave' mode; it makes a face filled with lines and takes too much time  
