@@ -63,10 +63,6 @@ Use for check & Post processing.
 - Tijd: Voor klok in-out: comment 10 minuut. cut plm 30 miuten
 - teeth zijn grillig, maar werken wel
 
-TODO
-- Inkscapemacro om alleen juiste pathes over te houden.
-
-
 # Lasercutter OUD BRM....
 - Put 'Laser Cutting Masking Tape' at least on bottom. On top affects engraving  
 - Remove stickerfilm and Leave cut pieces for one day degassing  
@@ -118,4 +114,7 @@ Mijn [**Kerf-offset**](https://github.com/gitAjjk/pubFabLab/blob/main/Kerf-offse
 ### Wijzerplaat
 Plaatst woorden uit string regelmatig langs cirkel, met parameter UI.  
 [Zie **circular_words**](https://github.com/gitAjjk/pubFabLab/blob/main/CircularWords/readme.rd)
-
+## TODO Cleanup
+  - alleen simpele pathes over te houden
+  - alle losse segmentjes weg te doen
+  - alles te ungroupen, zodat handmatig regroupen makkelijk gaat
