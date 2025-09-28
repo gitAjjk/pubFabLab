@@ -113,7 +113,7 @@ Mijn [**Kerf-offset**](https://github.com/gitAjjk/pubFabLab/blob/main/Kerf-offse
 **Kerf-offset** Can also be done with IS (See [InkScape Kerf offset EN.pdf](https://github.com/gitAjjk/pubFabLab/blob/main/InkScape%20Kerf%20offset%20EN%200.2.pdf))
 ### Wijzerplaat
 Plaatst woorden uit string regelmatig langs cirkel, met parameter UI.  
-[Zie **circular_words**](https://github.com/gitAjjk/pubFabLab/blob/main/CircularWords/readme.rd)
+[Zie **circular_words**](https://github.com/gitAjjk/pubFabLab/blob/main/CircularWords/readme.md)
 ## TODO Cleanup
   - alleen simpele pathes over te houden
   - alle losse segmentjes weg te doen
