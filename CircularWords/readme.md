@@ -4,7 +4,7 @@ Usage: menu > extensions > ajmenu > Cirkel woorden
 <img src="https://github.com/gitAjjk/pubFabLab/blob/main/CircularWords/circular_words_UI.jpg" width="250">
 
 After 'Apply' a **group** with plain **text** items is generated.  
-Afterwards you can change
+Afterwards you can change:
 - font
 - size
 - position
