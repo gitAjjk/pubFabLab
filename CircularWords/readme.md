@@ -8,3 +8,8 @@ Afterwards you can change:
 - font
 - size
 - position
+
+Results e.g. :
+
+<img src="https://github.com/gitAjjk/pubFabLab/blob/main/CircularWords/faces%20NL~.jpg">
+
