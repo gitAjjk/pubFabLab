@@ -7,3 +7,5 @@ Usage:
 - Set kerf
 
 Beware the kerf offset lines don't cross other lines. This happens when two lines have less than 'kerf' distance in sketch.  
+
+Newer lasercutters can compensate for kerf in the layer-settings.
