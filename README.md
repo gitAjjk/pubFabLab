@@ -5,7 +5,7 @@ Feel free to use this lifehacks and share your improvements & suggestions with m
 See [ajOffset.FCStd](https://github.com/gitAjjk/pubFabLab/blob/main/ajOffset.FCStd) for examples of dovetail-sliced polar patterns with pockets.
 
 # [Freecad](https://www.freecad.org/)
-Opensource replace for Fusion. Fullt parametric, python scripting (macro recording), construction history. I don't miss any features upto now, and it is still improving 😃!  
+Opensource replace for Fusion. Fully parametric, python scripting (macro recording), construction history. I don't miss any features upto now, and it is still improving 😃!  
 ## Best practises:
   - For each piece: nest a 'body'(+sketch) in a 'part' and 'Transform' part for posioning.
   - Use (sub)shapebinders with care. (SSB are NOT intuitieve)
