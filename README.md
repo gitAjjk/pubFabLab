@@ -113,7 +113,7 @@ Plaatst woorden uit string regelmatig langs cirkel, met parameter UI.
   - file > export... > STEP with colors (*.step, *.stp)
 - Bewerkt *.stp files.
   - Ultimaker Cura
-  - 
+  - Creality
 - Be sure all objects are on floor:
   - Buttonbar left > rotate > Select face to align to build plate.
   - Buttonbar left > move. Lift and release -> object is now auto oplaced on build plate.
