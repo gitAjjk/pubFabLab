@@ -85,13 +85,6 @@ Use for check & Post processing.
   - 14 / 70	OK
   - See fablab table  
 
-# 3D print
-- Ultimaker Cura
-- Be sure all objects are on floor:
-  - Buttonbar left > rotate > Select face to align to build plate.
-  - Buttonbar left > move. Lift and release -> object is now auto oplaced on build plate.
-  - Look from under to see deviant colors than cyan.
-  - [ctrl][C], [ctrl][V] to multiply
 - Plate 0 - 55:
   - maak circle diam 300 mm.
   - Zet die in nieuwe group 'Plate'
@@ -113,6 +106,20 @@ Mijn [**Kerf-offset**](https://github.com/gitAjjk/pubFabLab/blob/main/Kerf-offse
 **Kerf-offset** Can also be done with IS (See [InkScape Kerf offset EN.pdf](https://github.com/gitAjjk/pubFabLab/blob/main/InkScape%20Kerf%20offset%20EN%200.2.pdf))
 ### Wijzerplaat
 Plaatst woorden uit string regelmatig langs cirkel, met parameter UI.  
+
+# 3D print
+- FC:
+  - select part
+  - file > export... > STEP with colors (*.step, *.stp)
+- Bewerkt *.stp files.
+  - Ultimaker Cura
+  - 
+- Be sure all objects are on floor:
+  - Buttonbar left > rotate > Select face to align to build plate.
+  - Buttonbar left > move. Lift and release -> object is now auto oplaced on build plate.
+  - Look from under to see deviant colors than cyan.
+  - [ctrl][C], [ctrl][V] to multiply
+
 [Zie **circular_words**](https://github.com/gitAjjk/pubFabLab/blob/main/CircularWords/readme.md)
 ## TODO Cleanup
   - alleen simpele pathes over te houden
