@@ -62,7 +62,14 @@ Use for check & Post processing.
 - Om te editten / repositioneren / groupselect : Select all, Ungroup tot sat niet meer kan.
 - plaat acryl 3mm : 90x60 maar er zijn ook grotere 59x119?
 - Tijd: Voor klok in-out: comment 10 minuut. cut plm 30 miuten
+- [ ] zet punt 45 gradenlijn vanuit hoek materiaal op hout, zodat bij omdraaien dial text+cut gealigned is met sleuven
 
+| materiaal | wat | speed/power | misc |
+|-|-|-| - |
+| birch ply  | groef 1mm | 50/35 | evenwijige lijnen 0,25 mm hart afstand
+| karton | cut | | golfkarton met fablabparams net niet door
+| plexi 3mm | cut | fablab params|
+| plexi 3mm | mark | 300/11.5 | |
 
 # Lasercutter OUD BRM....
 - Put 'Laser Cutting Masking Tape' at least on bottom. On top affects engraving  
