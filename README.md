@@ -58,10 +58,11 @@ Use for check & Post processing.
 # Lasercutter NIEUW BRM....
 - .SVG uit Inkscape wordt meteen goed ingelezen
   - Wat gebeurt er met macro's/clones? Gebruik die voor datum-id
--Om te editten / repositioneren / groupselect : Select all, Ungroup tot sat niet meer kan.
+  - In IS: select een Text. rclick, Select same > same type; menu > path > object to path.
+- Om te editten / repositioneren / groupselect : Select all, Ungroup tot sat niet meer kan.
 - plaat acryl 3mm : 90x60 maar er zijn ook grotere 59x119?
 - Tijd: Voor klok in-out: comment 10 minuut. cut plm 30 miuten
-- teeth zijn grillig, maar werken wel
+
 
 # Lasercutter OUD BRM....
 - Put 'Laser Cutting Masking Tape' at least on bottom. On top affects engraving  
