@@ -35,21 +35,23 @@ Use for check & Post processing.
   - Set Text color to someting different      
   - Select all, ungroup 
   - Select a small path/linepiece, rclick > Select Same : 'Fill and Stroke'.
-  - Delete, so only 'complex paths' remain.  
+  - [ ] Delete, so only 'complex paths' remain.  
 - Take picture of material and use it as scaled background to arrange pieces to fit best  
 - [ctrl][l] shows object-tree  
 - Put text (CamBam_Stick) with a production-timestamp on every part (use duplicate [ctrl][d])
   - Also all other fonts must become paths  
   - Adapt text-fonts to lines:
-    - Select all, Menu > Extensions > Text > Hershey text
+    - [ ] Select all, Menu > Extensions > Text > Hershey text
       - All fontst are single lined
 - File > Document properties
   - Resize to content
   - Checkboard
 - Select all, Fill and Stroke [shift][ctrl][f] > Stroke Style > Width: 1 pixel / kerf (0,2)  
   - Mind fonts & hairline. (A hairline can be a completely overlapping inner an outer strokes and will be cut twice. Hairline is wrong rendered in some other programms))
-- Add texts and colors 
-- Save as .dxf, Options: only 'Use document unit as base unit', otherwise text-characters are messedup
+- Add texts and colors
+  - [ ] Kleur van binnen naar buiten bij ingeloten sub-objecten
+- [ ] Save as .svg en .pdf
+  - Legacy:  .dxf, Options: only 'Use document unit as base unit', otherwise text-characters are messedup
 
 # Check online:
   - [Coraldraw render](https://fixthephoto.com/nl/corel-draw-online-editor.html)
@@ -64,12 +66,13 @@ Use for check & Post processing.
 - Tijd: Voor klok in-out: comment 10 minuut. cut plm 30 miuten
 - [ ] zet punt 45 gradenlijn vanuit hoek materiaal op hout, zodat bij omdraaien dial text+cut gealigned is met sleuven
 
-| materiaal | wat | speed/power | misc |
-|-|-|-| - |
-| birch ply  | groef 1mm | 50/35 | evenwijige lijnen 0,25 mm hart afstand
-| karton | cut | | golfkarton met fablabparams net niet door
-| plexi 3mm | cut | fablab params|
-| plexi 3mm | mark | 300/11.5 | |
+| materiaal | wat | speed/power | air | misc |
+|-|-|-|-|-}
+| birch ply | groef 1mm | 50/35    | j | evenwijige lijnen 0,25 mm hart afstand
+| birch ply | mark      | 20/20    | j | NB 75/20 brand tot plm 2,5 mm
+| karton    | cut       |          | j | golfkarton met fablabparams net niet door
+| plexi 3mm | cut       |          | n | fablab params|
+| plexi 3mm | mark      | 300/11.5 | n | |
 
 # Lasercutter OUD BRM....
 - Put 'Laser Cutting Masking Tape' at least on bottom. On top affects engraving  
