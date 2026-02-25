@@ -70,8 +70,9 @@ Use for check & Post processing.
 |-|-|-|-|-|
 | birch ply | groef 1mm | 50/35    | j | evenwijige lijnen 0,25 mm hart afstand
 | birch ply | mark      | 20/20    | j | NB 75/20 brand tot plm 2,5 mm
+| birch ply | cut       | 45/80    | j | 
 | karton    | cut       |          | j | golfkarton met fablabparams net niet door
-| plexi 3mm | cut       |          | n | fablab params|
+| plexi 3mm | cut       |  30/80   | n | fablab params|
 | plexi 3mm | mark      | 300/11.5 | n | |
 
 # Lasercutter OUD BRM....
