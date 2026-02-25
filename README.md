@@ -67,7 +67,7 @@ Use for check & Post processing.
 - [ ] zet punt 45 gradenlijn vanuit hoek materiaal op hout, zodat bij omdraaien dial text+cut gealigned is met sleuven
 
 | materiaal | wat | speed/power | air | misc |
-|-|-|-|-|-}
+|-|-|-|-|-|
 | birch ply | groef 1mm | 50/35    | j | evenwijige lijnen 0,25 mm hart afstand
 | birch ply | mark      | 20/20    | j | NB 75/20 brand tot plm 2,5 mm
 | karton    | cut       |          | j | golfkarton met fablabparams net niet door
