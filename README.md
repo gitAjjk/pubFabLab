@@ -4,6 +4,23 @@ Feel free to use this lifehacks and share your improvements & suggestions with m
 
 See [ajOffset.FCStd](https://github.com/gitAjjk/pubFabLab/blob/main/ajOffset.FCStd) for examples of dovetail-sliced polar patterns with pockets.
 
+# Lasercutter NIEUW BRM....
+- .SVG uit Inkscape wordt meteen goed ingelezen
+  - Wat gebeurt er met macro's/clones? Gebruik die voor datum-id
+  - In IS: select een Text. rclick, Select same > same type; menu > path > object to path.
+- Om te editten / repositioneren / groupselect : Select all, Ungroup tot sat niet meer kan.
+- plaat acryl 3mm : 90x60 maar er zijn ook grotere 59x119?
+- [ ] Voor exacte achterkant alignen: zet gelijkzijdige vierkant om object en draaie dan om.
+
+| materiaal | wat | speed/power | air | misc |
+|-|-|-|-|-|
+| birch ply | groef 1mm | 50/35    | j | evenwijige lijnen 0,25 mm hart afstand
+| birch ply | mark      | 100/15?  | j | NB 75/20 brand tot plm 2,5 mm
+| birch ply | cut       | 50/90?   | j | 
+| karton    | cut       |          | j | golfkarton met fablabparams net niet door
+| plexi 3mm | cut       |  30/80   | n | fablab params|
+| plexi 3mm | mark      | 300/11.5 | n | |
+
 # [Freecad](https://www.freecad.org/)
 Opensource replace for Fusion. Fully parametric, python scripting (macro recording), construction history. I don't miss any features upto now, and it is still improving 😃!  
 ## Best practises:
@@ -57,23 +74,6 @@ Use for check & Post processing.
   - [Coraldraw render](https://fixthephoto.com/nl/corel-draw-online-editor.html)
   - [.svg, .dxf, .stl](https://sharecad.org/)  
 
-# Lasercutter NIEUW BRM....
-- .SVG uit Inkscape wordt meteen goed ingelezen
-  - Wat gebeurt er met macro's/clones? Gebruik die voor datum-id
-  - In IS: select een Text. rclick, Select same > same type; menu > path > object to path.
-- Om te editten / repositioneren / groupselect : Select all, Ungroup tot sat niet meer kan.
-- plaat acryl 3mm : 90x60 maar er zijn ook grotere 59x119?
-- Tijd: Voor klok in-out: comment 10 minuut. cut plm 30 miuten
-- [ ] zet punt 45 gradenlijn vanuit hoek materiaal op hout, zodat bij omdraaien dial text+cut gealigned is met sleuven
-
-| materiaal | wat | speed/power | air | misc |
-|-|-|-|-|-|
-| birch ply | groef 1mm | 50/35    | j | evenwijige lijnen 0,25 mm hart afstand
-| birch ply | mark      | 100/15?  | j | NB 75/20 brand tot plm 2,5 mm
-| birch ply | cut       | 50/90?   | j | 
-| karton    | cut       |          | j | golfkarton met fablabparams net niet door
-| plexi 3mm | cut       |  30/80   | n | fablab params|
-| plexi 3mm | mark      | 300/11.5 | n | |
 
 # Lasercutter OUD BRM....
 - Put 'Laser Cutting Masking Tape' at least on bottom. On top affects engraving  
