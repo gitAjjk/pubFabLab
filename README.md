@@ -14,9 +14,9 @@ See [ajOffset.FCStd](https://github.com/gitAjjk/pubFabLab/blob/main/ajOffset.FCS
 
 | materiaal | wat | speed/power | air | misc |
 |-|-|-|-|-|
-| birch ply | groef 1mm | 50/35    | j | evenwijige lijnen 0,25 mm hart afstand
+| birch ply | groef 1mm | 50/40    | j | evenwijige lijnen 0,25 mm hart afstand. 50/35 <1mm
 | birch ply | mark      | 100/15?  | j | NB 75/20 brand tot plm 2,5 mm
-| birch ply | cut       | 50/90?   | j | 
+| birch ply | cut       | 50/85    | j | 50/90 gaat er net niet altijd door
 | karton    | cut       |          | j | golfkarton met fablabparams net niet door
 | plexi 3mm | cut       |  30/80   | n | fablab params|
 | plexi 3mm | mark      | 300/11.5 | n | |
