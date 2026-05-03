@@ -21,6 +21,11 @@ See [ajOffset.FCStd](https://github.com/gitAjjk/pubFabLab/blob/main/ajOffset.FCS
 | plexi 3mm | cut       |  30/80   | n | fablab params|
 | plexi 3mm | mark      | 300/11.5 | n | |
 
+##
+To align sleeves on the backside of my dial rings place a green, aligned, regular square around.  
+First fix the material outside the green square, then engrave the magenta text, cut the green square, flip the square, burn the cyan sleeves and finaly cut the rings inside out.  
+<img width="300" alt="Screenshot 2026-05-03 154644" src="https://github.com/user-attachments/assets/93f06fb1-ce31-4f07-8d41-83371386f3d6" />
+
 # [Freecad](https://www.freecad.org/)
 Opensource replace for Fusion. Fully parametric, python scripting (macro recording), construction history. I don't miss any features upto now, and it is still improving 😃!  
 ## Best practises:
